@@ -1,2 +1,2 @@
 # newrepository
-pit pat pout
+LOCAL
