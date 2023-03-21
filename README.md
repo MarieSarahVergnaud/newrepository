@@ -1,2 +1,4 @@
 # newrepository
-LOCAL
+REMOTE
+pit pat pout
+
